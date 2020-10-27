@@ -20,7 +20,7 @@ Use cases for managing PowerApps/Flow
 ## [MS Online](./MSOnline)
 Use cases to manage groups and users with Azure Active Directory Powershell Module v1
 
-## [Sharepoint Online](./SharePointOnline)
+## [SharePoint Online](./SharePointOnline)
 Use cases for SharePoint Online 
 
 ## [Skype for Business](./Skype4Business)
